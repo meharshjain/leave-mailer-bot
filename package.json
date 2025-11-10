@@ -1,0 +1,25 @@
+{
+  "name": "leave-mailer-bot",
+  "version": "1.0.0",
+  "description": "A simple email notification utility for leave management systems using Nodemailer.",
+  "main": "index.js",
+  "author": "Harsh Jain <harshjain@meharshjain.com>",
+  "license": "MIT",
+  "keywords": [
+    "email",
+    "nodemailer",
+    "leave-management",
+    "notifications"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meharshjain/leave-mailer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meharshjain/leave-mailer/issues"
+  },
+  "homepage": "https://github.com/meharshjain/leave-mailer#readme",
+  "dependencies": {
+    "nodemailer": "^6.9.0"
+  }
+}
